@@ -22,6 +22,8 @@ Sugestão de uso:
 
 ---
 
+Software livre <3 
+
 Núcleo Digital
 www.nucleodigital.cc
 
