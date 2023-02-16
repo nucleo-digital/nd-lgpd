@@ -18,3 +18,11 @@ Sugestão de uso:
 [nd_lgpd_download_user_data text="Baixar meus dados"]
 
 4 - Adicione outros plugins complementares, como de aviso sobre cookies, exemplo: https://consensu.io/
+
+---
+
+Núcleo Digital
+www.nucleodigital.cc
+
+Código Não Binário
+www.codigonaobinario.org
