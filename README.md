@@ -15,6 +15,7 @@ Sugestão de uso:
 3 - Insira os shortcodes abaixo
 
 [nd_lgpd_delete_user text="Apagar meus dados"]
+
 [nd_lgpd_download_user_data text="Baixar meus dados"]
 
 4 - Adicione outros plugins complementares, como de aviso sobre cookies, exemplo: https://consensu.io/
